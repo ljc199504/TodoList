@@ -1,2 +1,2 @@
 # TodoList
-put into src and run in the cmd
+put them into src and run in the cmd.
